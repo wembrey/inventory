@@ -1,5 +1,5 @@
 # inventory
-'''mermaid
+```mermaid
 gantt
     dateFormat  YYYY-MM-DD
     axisFormat  %Y-%m
@@ -22,4 +22,5 @@ gantt
     Hardware Support        :active, cr_hw_support, 2025-01-10, 2026-01-09
     RTR-ADV-1Y License      :active, cr_lic_rtr, 2025-02-20, 2026-02-19
     End-of-Life             :milestone, after cr_lic_rtr, 2030-01-01
-'''
+
+```
